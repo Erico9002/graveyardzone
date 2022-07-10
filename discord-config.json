@@ -4,9 +4,9 @@
   "autoPopulate": true,
   "servers": [
 	{
-      "id": "182169442162049024",
+      "id": "765012467548946442",
       "default": true,
-      "ignoreChannels": ["pumpkins"]
+      "ignoreChannels": [""]
     }
   ]
 }
