@@ -23,7 +23,7 @@ const config = convict({
             id: {
                 doc: "The Discord server ID you want to simulate.",
                 format: String,
-                default: "182169442162049024"
+                default: "765012467548946442"
             },
             default: {
                 doc: "Indicates whether clients connect to this server by default. One server should have this set to true.",
