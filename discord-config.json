@@ -3,5 +3,10 @@
   "infoCommand": "!d-zone",
   "autoPopulate": true,
   "servers": [
+	{
+      "id": "182169442162049024",
+      "default": true,
+      "ignoreChannels": ["pumpkins"]
+    }
   ]
 }
